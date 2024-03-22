@@ -2,7 +2,7 @@
 ## _Chatting Bot Like Design (Whatsapp like interface)_
 
 
-- [Running Site](https://khushichoudhary1020.github.io/Khushi-Portfolio-Chat/)
+- [Running Site](https://harshchoudhary187.github.io/firstrepo/)
 - [Running Site](https://khushi-portfolio-chat.vercel.app/)
 
 
