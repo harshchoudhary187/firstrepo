@@ -72,7 +72,7 @@ function waitAndResponce(inputText) {
     switch (inputText.toLowerCase().trim()) {
         case "intro":
             setTimeout(() => {
-                sendTextMessage("Hello there 👋🏻,<br><br>My name is <span class='bold'><a class='alink'>Khushi Choudhary</a>.</span><br><br>I am an AI student at <span class='bold'>Kanya Maha Vidyalaya 👨🏻‍💻📚</span><br><br>I am eager to hear about potential career opportunities, so I would be pleased to chat about job openings in the software engineering sphere.<br><br>Send <span class='bold'>'help'</span> to know more about me.<br>");
+                sendTextMessage("Hello there 👋🏻,<br><br>My name is <span class='bold'><a class='alink'>harsh Choudhary</a>.</span><br><br>I am an AI student at <span class='bold'>Kanya Maha Vidyalaya 👨🏻‍💻📚</span><br><br>I am eager to hear about potential career opportunities, so I would be pleased to chat about job openings in the software engineering sphere.<br><br>Send <span class='bold'>'help'</span> to know more about me.<br>");
             }, 2000);
             break;
         case "help":
@@ -99,14 +99,14 @@ function waitAndResponce(inputText) {
             sendTextMessage("🛠️💻 This portfolio website is built using HTML, CSS and JavaScript from SCRATCH!<br><br>👨🏻‍💻 Designed and Developed by <a class='alink' target='_blank' href='https:\/\/instagram.com/kushimanent/'><span class='bold'>Khushi Choudhary</a> with ❤️</span>");
             break;
             
-        case "hi khushi":
+        case "hi harsh":
             sendTextMessage("Hello");
             break;
-        case "hi khushi choudhary":
+        case "hi harsh choudhary":
             sendTextMessage("Hello");
             break;
 
-        case "hi kushi":
+        case "hi harsh":
             sendTextMessage("Hello");
             break;
             
@@ -114,7 +114,7 @@ function waitAndResponce(inputText) {
             sendTextMessage("Hi");
             break;
 
-        case "hello priya":
+        case "hello harsh":
             sendTextMessage("Hi");
             break;
             
@@ -170,7 +170,7 @@ function waitAndResponce(inputText) {
             sendTextMessage(addressString);
                 break;
     
-        case "where is khushi?":
+        case "where is harsh?":
             sendTextMessage(addressString);
             break;
         
@@ -179,7 +179,7 @@ function waitAndResponce(inputText) {
             break;
     
         case "who are you?":
-            sendTextMessage("I am Khushi Chodhary's AI Bot.");
+            sendTextMessage("I am harsh Chodhary's AI Bot.");
             break;
     
         case "what are you doing?":
@@ -191,7 +191,7 @@ function waitAndResponce(inputText) {
             break;
     
         case "who made you?":
-            sendTextMessage("Khushi Choudhary made me.");
+            sendTextMessage("harsh Choudhary made me.");
             break;
     
         case "why did she made you?":
@@ -202,20 +202,20 @@ function waitAndResponce(inputText) {
             sendTextMessage("To talk to you.");
             break;
 
-        case "what are you doing khushi?":
+        case "what are you doing harsh?":
             sendTextMessage("To talk to you.");
             break;
 
-        case "khushi":
-            sendTextMessage("Khushi is not available currently, tell me how can I assist you?");
+        case "harsh":
+            sendTextMessage("harsh is not available currently, tell me how can I assist you?");
             break;    
     
         case "i love you":
-            sendTextMessage("Thanks for showing your love! Lots of love from Khushi's AI Bot.");
+            sendTextMessage("Thanks for showing your love! Lots of love from harsh's AI Bot.");
             break;   
                 
         case "i love u":
-            sendTextMessage("Thanks for showing your love! Lots of love from Khushi's AI Bot.");
+            sendTextMessage("Thanks for showing your love! Lots of love from harsh's AI Bot.");
             break;
             
     
@@ -239,7 +239,7 @@ function waitAndResponce(inputText) {
             sendTextMessage(contactString);
             break;
         case "projects":
-            sendTextMessage("You want to check my projects? Then just jump into my Github Account.<br><br><div class='social'><a target='_blank' href='https://github.com/khushichoudhary1020'> <div class='socialItem'><img class='socialItemI' src='images/github.svg' alt=''></div> </a></div>");
+            sendTextMessage("You want to check my projects? Then just jump into my Github Account.<br><br><div class='social'><a target='_blank' href='https://github.com/harshchoudhary187'> <div class='socialItem'><img class='socialItemI' src='images/github.svg' alt=''></div> </a></div>");
             break;
         case "new":
             sendTextMessage(addressString);
